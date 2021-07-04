@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Hotel</string>
+    <string name="judul_main">Hotel Ibis Padang</string>
+    <string name="btn_lok">Lokasi</string>
+    <string name="btn_pesan">Pesan Kamar</string>
+    <string name="btn_his">History Pemesanan</string>
+    <string name="btn_fas">Fasilitas</string>
+    <string name="Lokasi">Jl. Tamansiswa No.1A, Alai Parak Kopi, Kec. Padang Utara, Kota Padang, Sumatera Barat 25139, Indonesia</string>
+    <string name="resto">Restaurant</string>
+    <string name="meet">Meeting Room</string>
+    <string name="spa">Spa</string>
+    <string name="kolam">Kolam Renang</string>
+    <string name="Pkamar">Pilihan Kamar</string>
+    <string name="rSingleBed">Single Bed</string>
+    <string name="rTwinBed">Twin Bed</string>
+    <string name="datapesanan">Data Pesanan</string>
+    <string name="dnm">Nama :</string>
+    <string name="dtl">No Telpon :</string>
+    <string name="dlm">Lama Menginap :</string>
+    <string name="djk">Jenis Kamar :</string>
+    <string name="dhg">Harga :</string>
+    <string name="nama">Nama</string>
+    <string name="telpon">No Telpon</string>
+    <string name="lama_menginap">Lama Menginap</string>
+    <string name="JenisKamar">Jenis Kamar</string>
+    <string name="Harga">Harga</string>
+
+
+
+</resources>
