@@ -3,16 +3,17 @@ package com.example.hotel.database;
 import java.io.Serializable;
 
 public class Pesanan implements Serializable {
+    //line 7-12 mendeklarasi variabel
     String kode;
     String nama;
     String nomor_telepon;
     String lama_menginap;
     String Jenis_Kamar;
     String Harga;
-
+    //konstruktor kosong
     public Pesanan() {
     }
-
+    //konstruktor dengan semua parameter
     public Pesanan(String nama, String nomor_telepon, String lama_menginap, String jenis_Kamar, String harga) {
         this.nama = nama;
         this.nomor_telepon = nomor_telepon;
@@ -20,7 +21,7 @@ public class Pesanan implements Serializable {
         Jenis_Kamar = jenis_Kamar;
         Harga = harga;
     }
-    
+    //line 25-69 berisi getter dan setter dari variabel-variabel yang sudah dibuat
     public String getKode() {
         return kode;
     }
@@ -70,6 +71,7 @@ public class Pesanan implements Serializable {
     }
 
     @Override
+    //tostring dari variabel yang telah dibuat
     public String toString() {
         return "Pesanan{" +
                 "nama='" + nama + '\'' +
